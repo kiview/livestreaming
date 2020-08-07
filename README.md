@@ -1,6 +1,16 @@
 # livestreaming
 TODOs for the livestreaming sessions.
 
+## 2020-08-07
+
+### PR Review
+- [x] Found a bug (?) in [Support database aliases in R2DBC](https://github.com/testcontainers/testcontainers-java/pull/2599#issuecomment-670693884)
+- [x] Finished the [review PR](https://github.com/testcontainers/testcontainers-java/pull/3019)
+
+### PR Submitted
+- [x] [Add support for MongoDB 4.4](https://github.com/testcontainers/testcontainers-java/pull/3083)
+
+
 ## 2020-07-24
 
 - [x] Working streaming setup
