@@ -4,8 +4,8 @@ TODOs for the livestreaming sessions.
 ## 2020-08-14
 
 ### PR Review
-- [ ] Fix or understand bug in [Support database aliases in R2DBC](https://github.com/testcontainers/testcontainers-java/pull/2599#issuecomment-670693884)
-- [ ] [Add image compatibility checks](https://github.com/testcontainers/testcontainers-java/pull/3021)
+- [x] Fix or understand bug in [Support database aliases in R2DBC](https://github.com/testcontainers/testcontainers-java/pull/2599#issuecomment-670693884)
+- [x] [Add image compatibility checks](https://github.com/testcontainers/testcontainers-java/pull/3021)
 - [ ] [Add suport for container name in compose](https://github.com/testcontainers/testcontainers-java/pull/2741#issuecomment-652798400)
 
 
